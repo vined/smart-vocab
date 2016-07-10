@@ -1,0 +1,113 @@
+#presente(6);passato prossimo;gerundio;imperfetto(6);futuro(6);condizionale;passato remoto(6);imperativo(5)
+technique;technica
+techniques;techniche
+best;migliore
+small;picolo
+V:translate;tradurre;traduco;traduci;traduce;traduciamo;traducete;traducono;tradotto;traducendo;traducevo;traducevi;traduceva;traducevamo;traducevate;traducevano;tradurrò;tradurrai;tradurà;tradurremo;tradurrete;tradurranno;tradurrei;tradurresti;tradurrebbe;tradurremmo;tradurreste;tradurrebbero;tradussi;traducesti;tradusse;traducemmo;tradussero;traduci;traduca;traduciamo;traducete;traducano
+so/so that/in order that;affinché
+call;chiamare;mi chiamo;ti chiami;si chiama;ci chiamiamo;vi chiamate;si chiamano
+V:wrong;sbagliare
+for/because of;poiché
+V:work/function;funzionare
+surprize;sorpreso
+form/module;modulo
+fill/compile;compilare
+field/terrain;terreno
+transfer;devolvere
+humanitarian;umanitario
+V:show;mostrare
+V:show;dimostrare
+V:save(smb from smth);salvare
+V:save(money)/put aside(money);risparmiare
+V:collect;raccogliere
+button;tasto
+free;gratis
+discount;sconto
+V:push;spingere
+V:pull;tirare
+discounts/sale;saldi
+foreign/abroad;estero
+foreign/foreigner;straniero
+V:trust;fidarsi
+stamp/tone;timbro
+pain;male
+fear;paura
+before;prima
+signature;firma
+greater/larger/major/more important;maggiore
+meeting/reuion;riunione
+meeting/encounter;incontro
+co-worker/partner;socio
+desk;scrivania
+pencil;matita
+pen;penna
+erasser/rubber;gomma
+folder;cartella
+sheet/page/leaflet;foglio
+exercise book;quaderno
+calendar;calendario
+screen;schermo
+keyboard;tastiera
+bath robe;accappatoio
+towel;telo
+size;taglia
+watch;orologio
+tie;cravatta
+bow tie;papilon
+bow tie;cravattino
+neclace;collana
+bracelet;bracciale
+ring;anello
+pin;spilla
+earring;orecchino
+wallet;portafoglio
+briefcase;valigetta
+sleeve;manica
+collar;colletto
+button(clothing);bottone
+pocket;tasca
+zipper;cerniera
+V:dress;vestirsi
+V:wear;indossare
+V:wear;portare
+striped;a linee
+plaid/tartan;a quadretti
+polka dot/a puntini
+wool;lana
+cotton;cotone
+jacket;giacca
+jacket;giubbotto
+coat;cappotto
+hat;berretto
+hat;cappello
+scarf;sciarpa
+headscarf;foulard
+glowes;guanti
+belt;cintura
+sock;calzino
+underpants;mutande
+glasses(prescription);occhiali
+glasses(prescription);occhiali da vista
+sun glasses;occhiali da sole
+bagpack;zaino
+bag/purse;borsa
+umbrella;ombrello
+pullover/cardigan;maglione
+sweatshirt;felpa
+pants;pantaloni
+shoe;scarpa
+sport shoe;scarpa sportiva
+boot;stivale
+sliper;ciabatta
+t-shirt;maglietta
+sleeveless shirt;canottiera
+clothes;abbigliamento
+clothes;vestiti
+dress;vestito
+skirt;gonna
+accessory;accessorio
+footwear;calzature
+jewellery;gioielli
+jewellery;gioielleria
+shirt;camicia
+white coat (medic.);camice

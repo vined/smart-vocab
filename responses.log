@@ -1,0 +1,67 @@
+{"Answer":"sconto","Timestamp":1467056617,"UsedTest":{"Id":23,"Word":"discount","WordLanguage":"EN","ExpectedAnswer":"sconto","AnswerLanguage":"IT"}}
+{"Answer":"bottone","Timestamp":1467056636,"UsedTest":{"Id":65,"Word":"button(clothing)","WordLanguage":"EN","ExpectedAnswer":"bottone","AnswerLanguage":"IT"}}
+{"Answer":"","Timestamp":1467056649,"UsedTest":{"Id":94,"Word":"sweatshirt","WordLanguage":"EN","ExpectedAnswer":"felpa","AnswerLanguage":"IT"}}
+{"Answer":"pull","Timestamp":1467056661,"UsedTest":{"Id":25,"Word":"tirare","WordLanguage":"IT","ExpectedAnswer":"V:pull","AnswerLanguage":"EN"}}
+{"Answer":"free","Timestamp":1467056670,"UsedTest":{"Id":22,"Word":"gratis","WordLanguage":"IT","ExpectedAnswer":"free","AnswerLanguage":"EN"}}
+{"Answer":"quaderno","Timestamp":1467056676,"UsedTest":{"Id":45,"Word":"exercise book","WordLanguage":"EN","ExpectedAnswer":"quaderno","AnswerLanguage":"IT"}}
+{"Answer":"","Timestamp":1467056682,"UsedTest":{"Id":53,"Word":"tie","WordLanguage":"EN","ExpectedAnswer":"cravatta","AnswerLanguage":"IT"}}
+{"Answer":"orologio","Timestamp":1467056689,"UsedTest":{"Id":52,"Word":"watch","WordLanguage":"EN","ExpectedAnswer":"orologio","AnswerLanguage":"IT"}}
+{"Answer":"gioielerie","Timestamp":1467056705,"UsedTest":{"Id":109,"Word":"jewellery","WordLanguage":"EN","ExpectedAnswer":"gioielleria","AnswerLanguage":"IT"}}
+{"Answer":"portafoglio","Timestamp":1467056717,"UsedTest":{"Id":61,"Word":"wallet","WordLanguage":"EN","ExpectedAnswer":"portafoglio","AnswerLanguage":"IT"}}
+{"Answer":"taglia","Timestamp":1467056725,"UsedTest":{"Id":51,"Word":"size","WordLanguage":"EN","ExpectedAnswer":"taglia","AnswerLanguage":"IT"}}
+{"Answer":"vaglieta","Timestamp":1467056734,"UsedTest":{"Id":62,"Word":"briefcase","WordLanguage":"EN","ExpectedAnswer":"valigetta","AnswerLanguage":"IT"}}
+{"Answer":"slipper","Timestamp":1467056758,"UsedTest":{"Id":99,"Word":"ciabatta","WordLanguage":"IT","ExpectedAnswer":"sliper","AnswerLanguage":"EN"}}
+{"Answer":"gioielleria","Timestamp":1467056769,"UsedTest":{"Id":108,"Word":"jewellery","WordLanguage":"EN","ExpectedAnswer":"gioielli","AnswerLanguage":"IT"}}
+{"Answer":"","Timestamp":1467056787,"UsedTest":{"Id":50,"Word":"telo","WordLanguage":"IT","ExpectedAnswer":"towel","AnswerLanguage":"EN"}}
+{"Answer":"cravattino","Timestamp":1467056797,"UsedTest":{"Id":53,"Word":"tie","WordLanguage":"EN","ExpectedAnswer":"cravatta","AnswerLanguage":"IT"}}
+{"Answer":"","Timestamp":1467056804,"UsedTest":{"Id":29,"Word":"V:trust","WordLanguage":"EN","ExpectedAnswer":"fidarsi","AnswerLanguage":"IT"}}
+{"Answer":"sport shoe","Timestamp":1467056816,"UsedTest":{"Id":97,"Word":"scarpa sportiva","WordLanguage":"IT","ExpectedAnswer":"sport shoes","AnswerLanguage":"EN"}}
+{"Answer":"abbigliament","Timestamp":1467056827,"UsedTest":{"Id":103,"Word":"clothes","WordLanguage":"EN","ExpectedAnswer":"vestiti","AnswerLanguage":"IT"}}
+{"Answer":"cintura","Timestamp":1467056843,"UsedTest":{"Id":84,"Word":"belt","WordLanguage":"EN","ExpectedAnswer":"cintura","AnswerLanguage":"IT"}}
+{"Answer":"accessorio","Timestamp":1467056850,"UsedTest":{"Id":106,"Word":"accessory","WordLanguage":"EN","ExpectedAnswer":"accessorio","AnswerLanguage":"IT"}}
+{"Answer":"small","Timestamp":1467056854,"UsedTest":{"Id":3,"Word":"picolo","WordLanguage":"IT","ExpectedAnswer":"small","AnswerLanguage":"EN"}}
+{"Answer":"cottone","Timestamp":1467056863,"UsedTest":{"Id":75,"Word":"cotton","WordLanguage":"EN","ExpectedAnswer":"cotone","AnswerLanguage":"IT"}}
+{"Answer":"bow tie","Timestamp":1467056870,"UsedTest":{"Id":55,"Word":"cravattino","WordLanguage":"IT","ExpectedAnswer":"bow tie","AnswerLanguage":"EN"}}
+{"Answer":"humanitarian","Timestamp":1467056884,"UsedTest":{"Id":15,"Word":"umanitario","WordLanguage":"IT","ExpectedAnswer":"humanitarian","AnswerLanguage":"EN"}}
+{"Answer":"tie","Timestamp":1467056888,"UsedTest":{"Id":53,"Word":"cravatta","WordLanguage":"IT","ExpectedAnswer":"tie","AnswerLanguage":"EN"}}
+{"Answer":"dress up","Timestamp":1467056893,"UsedTest":{"Id":68,"Word":"vestirsi","WordLanguage":"IT","ExpectedAnswer":"V:dress","AnswerLanguage":"EN"}}
+{"Answer":"","Timestamp":1467056905,"UsedTest":{"Id":82,"Word":"headscarf","WordLanguage":"EN","ExpectedAnswer":"foulard","AnswerLanguage":"IT"}}
+{"Answer":"t-thirt","Timestamp":1467056915,"UsedTest":{"Id":63,"Word":"manica","WordLanguage":"IT","ExpectedAnswer":"sleeve","AnswerLanguage":"EN"}}
+{"Answer":"technique","Timestamp":1467056928,"UsedTest":{"Id":0,"Word":"technica","WordLanguage":"IT","ExpectedAnswer":"technique","AnswerLanguage":"EN"}}
+{"Answer":"vestirsi","Timestamp":1467056935,"UsedTest":{"Id":68,"Word":"V:dress","WordLanguage":"EN","ExpectedAnswer":"vestirsi","AnswerLanguage":"IT"}}
+{"Answer":"funcionare","Timestamp":1467056945,"UsedTest":{"Id":9,"Word":"V:work/function","WordLanguage":"EN","ExpectedAnswer":"funzionare","AnswerLanguage":"IT"}}
+{"Answer":"gona","Timestamp":1467056950,"UsedTest":{"Id":105,"Word":"skirt","WordLanguage":"EN","ExpectedAnswer":"gonna","AnswerLanguage":"IT"}}
+{"Answer":"capello","Timestamp":1467056957,"UsedTest":{"Id":80,"Word":"hat","WordLanguage":"EN","ExpectedAnswer":"cappello","AnswerLanguage":"IT"}}
+{"Answer":"foreign","Timestamp":1467056966,"UsedTest":{"Id":28,"Word":"straniero","WordLanguage":"IT","ExpectedAnswer":"foreign/foreigner","AnswerLanguage":"EN"}}
+{"Answer":"gonna","Timestamp":1467056972,"UsedTest":{"Id":105,"Word":"skirt","WordLanguage":"EN","ExpectedAnswer":"gonna","AnswerLanguage":"IT"}}
+{"Answer":"scarpa sportiva","Timestamp":1467056980,"UsedTest":{"Id":97,"Word":"sport shoes","WordLanguage":"EN","ExpectedAnswer":"scarpa sportiva","AnswerLanguage":"IT"}}
+{"Answer":"foglio","Timestamp":1467056986,"UsedTest":{"Id":43,"Word":"folder","WordLanguage":"EN","ExpectedAnswer":"cartella","AnswerLanguage":"IT"}}
+{"Answer":"foot wear","Timestamp":1467056997,"UsedTest":{"Id":85,"Word":"calzino","WordLanguage":"IT","ExpectedAnswer":"sock","AnswerLanguage":"EN"}}
+{"Answer":"reunion","Timestamp":1467057007,"UsedTest":{"Id":36,"Word":"riunione","WordLanguage":"IT","ExpectedAnswer":"meeting/reuion","AnswerLanguage":"EN"}}
+{"Answer":"gratis","Timestamp":1467057012,"UsedTest":{"Id":22,"Word":"free","WordLanguage":"EN","ExpectedAnswer":"gratis","AnswerLanguage":"IT"}}
+{"Answer":"tie","Timestamp":1467057018,"UsedTest":{"Id":53,"Word":"cravatta","WordLanguage":"IT","ExpectedAnswer":"tie","AnswerLanguage":"EN"}}
+{"Answer":"before","Timestamp":1467057023,"UsedTest":{"Id":33,"Word":"prima","WordLanguage":"IT","ExpectedAnswer":"before","AnswerLanguage":"EN"}}
+{"Answer":"suitcase","Timestamp":1467057036,"UsedTest":{"Id":62,"Word":"valigetta","WordLanguage":"IT","ExpectedAnswer":"briefcase","AnswerLanguage":"EN"}}
+{"Answer":"borsa","Timestamp":1467057044,"UsedTest":{"Id":91,"Word":"bag/purse","WordLanguage":"EN","ExpectedAnswer":"borsa","AnswerLanguage":"IT"}}
+{"Answer":"portare","Timestamp":1467057049,"UsedTest":{"Id":69,"Word":"V:wear","WordLanguage":"EN","ExpectedAnswer":"indossare","AnswerLanguage":"IT"}}
+{"Answer":"calzano","Timestamp":1467057061,"UsedTest":{"Id":107,"Word":"footwear","WordLanguage":"EN","ExpectedAnswer":"calzature","AnswerLanguage":"IT"}}
+{"Answer":"umbrella","Timestamp":1467057067,"UsedTest":{"Id":92,"Word":"ombrello","WordLanguage":"IT","ExpectedAnswer":"umbrella","AnswerLanguage":"EN"}}
+{"Answer":"","Timestamp":1467057073,"UsedTest":{"Id":59,"Word":"pin","WordLanguage":"EN","ExpectedAnswer":"spilla","AnswerLanguage":"IT"}}
+{"Answer":"clothes","Timestamp":1467057081,"UsedTest":{"Id":102,"Word":"abbigliamento","WordLanguage":"IT","ExpectedAnswer":"clothes","AnswerLanguage":"EN"}}
+{"Answer":"ciabatta","Timestamp":1467057088,"UsedTest":{"Id":99,"Word":"sliper","WordLanguage":"EN","ExpectedAnswer":"ciabatta","AnswerLanguage":"IT"}}
+{"Answer":"shirt","Timestamp":1467057095,"UsedTest":{"Id":110,"Word":"camicia","WordLanguage":"IT","ExpectedAnswer":"shirt","AnswerLanguage":"EN"}}
+{"Answer":"giacca","Timestamp":1467057107,"UsedTest":{"Id":77,"Word":"jacket","WordLanguage":"EN","ExpectedAnswer":"giubbotto","AnswerLanguage":"IT"}}
+{"Answer":"giaca","Timestamp":1467057121,"UsedTest":{"Id":77,"Word":"jacket","WordLanguage":"EN","ExpectedAnswer":"giubbotto","AnswerLanguage":"IT"}}
+{"Answer":"clothes","Timestamp":1467057137,"UsedTest":{"Id":103,"Word":"vestiti","WordLanguage":"IT","ExpectedAnswer":"clothes","AnswerLanguage":"EN"}}
+{"Answer":"humanitarian","Timestamp":1467057143,"UsedTest":{"Id":15,"Word":"umanitario","WordLanguage":"IT","ExpectedAnswer":"humanitarian","AnswerLanguage":"EN"}}
+{"Answer":"wear","Timestamp":1467057149,"UsedTest":{"Id":69,"Word":"indossare","WordLanguage":"IT","ExpectedAnswer":"V:wear","AnswerLanguage":"EN"}}
+{"Answer":"rubber","Timestamp":1467057157,"UsedTest":{"Id":42,"Word":"gomma","WordLanguage":"IT","ExpectedAnswer":"erasser/rubber","AnswerLanguage":"EN"}}
+{"Answer":"guanti","Timestamp":1467057162,"UsedTest":{"Id":83,"Word":"glowes","WordLanguage":"EN","ExpectedAnswer":"guanti","AnswerLanguage":"IT"}}
+{"Answer":"a linee","Timestamp":1467057168,"UsedTest":{"Id":71,"Word":"striped","WordLanguage":"EN","ExpectedAnswer":"a linee","AnswerLanguage":"IT"}}
+{"Answer":"cappello","Timestamp":1467057174,"UsedTest":{"Id":80,"Word":"hat","WordLanguage":"EN","ExpectedAnswer":"cappello","AnswerLanguage":"IT"}}
+{"Answer":"gioielli","Timestamp":1467057184,"UsedTest":{"Id":108,"Word":"jewellery","WordLanguage":"EN","ExpectedAnswer":"gioielli","AnswerLanguage":"IT"}}
+{"Answer":"","Timestamp":1467057191,"UsedTest":{"Id":57,"Word":"bracelet","WordLanguage":"EN","ExpectedAnswer":"bracciale","AnswerLanguage":"IT"}}
+{"Answer":"sweat suit","Timestamp":1467057201,"UsedTest":{"Id":94,"Word":"felpa","WordLanguage":"IT","ExpectedAnswer":"sweatshirt","AnswerLanguage":"EN"}}
+{"Answer":"abbigliamento","Timestamp":1467057213,"UsedTest":{"Id":103,"Word":"clothes","WordLanguage":"EN","ExpectedAnswer":"vestiti","AnswerLanguage":"IT"}}
+{"Answer":"jacket","Timestamp":1467057225,"UsedTest":{"Id":77,"Word":"giubbotto","WordLanguage":"IT","ExpectedAnswer":"jacket","AnswerLanguage":"EN"}}
+{"Answer":"watch","Timestamp":1467057230,"UsedTest":{"Id":52,"Word":"orologio","WordLanguage":"IT","ExpectedAnswer":"watch","AnswerLanguage":"EN"}}
