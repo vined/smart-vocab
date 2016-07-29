@@ -1,5 +1,7 @@
-module Lib
-    ( getVocab
+module Vocab
+    ( VocabEntry(..)
+    , getVocab
+    , getWordsBatchForTest
     ) where
 
 import Data.Strings
@@ -14,5 +16,8 @@ toVocabEntry (enWord:itWord:tail) = VocabEntry {english=enWord, italian=itWord}
 splitBySemicolon :: String -> [String]
 splitBySemicolon = strSplitAll ";"
 
-getVocab :: [String] -> [VocabEntry]
-getVocab entries = map toVocabEntry $ map splitBySemicolon entries
+getVocab :: String -> [VocabEntry]
+getVocab unparsedVocab = map toVocabEntry . map splitBySemicolon . drop 1 $ lines unparsedVocab
+
+getWordsBatchForTest :: String -> Int -> [VocabEntry]
+getWordsBatchForTest unparsedVocab wordsCount = take wordsCount $ getVocab unparsedVocab

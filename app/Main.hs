@@ -2,8 +2,10 @@ module Main where
 
 import System.Environment
 import System.IO
+--import System.Random
+--import System.Random.Shuffle
 import Data.List
-import Lib
+import Vocab
 
 main :: IO ()
 main = do
@@ -18,17 +20,22 @@ callAction Nothing = printHelp
 
 dispatch :: [(String, IO ())]
 dispatch = [ ("add", add)
-           , ("test", testWords)
+           , ("startTest", startTest)
            ]
 
 add :: IO ()
 add = putStrLn "TBD"
 
-testWords :: IO ()
-testWords = do
+startTest :: IO ()
+startTest = do
     withFile "words.txt" ReadMode (\handle -> do
         contents <- hGetContents handle
-        print . getVocab $ lines contents)
+        mapM_ askWord $ getWordsBatchForTest contents 5)
+
+askWord :: VocabEntry -> IO ()
+askWord (VocabEntry {english=en, italian=it}) = do
+    putStrLn ("Translate word " ++ it)
+
 
 printHelp :: IO ()
 printHelp = do
@@ -36,4 +43,4 @@ printHelp = do
     putStr "Usage: smart-vocab COMMAND\n\n"
     putStrLn "Available commands:"
     putStrLn "  add         Add new words to vocabulary"
-    putStrLn "  test        Start vocabulary tests"
+    putStrLn "  startTest        Start vocabulary tests"
